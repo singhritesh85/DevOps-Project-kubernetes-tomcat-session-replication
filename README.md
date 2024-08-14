@@ -60,7 +60,7 @@ The screenshots of SonarQube, Nexus Artifactory, ArgoCD and Route53 record set e
 ![image](https://github.com/user-attachments/assets/927bcf0d-65f4-4c27-b0d2-d0a36da3f05b)
 ![image](https://github.com/user-attachments/assets/9ff02794-88a1-4a9a-b9fe-43bf7cf4da11)
 
-The Session Id shown in the below screenshot reflects the session replication.
+The Session Id shown in the below screenshot confirms the session replication.
 ![image](https://github.com/user-attachments/assets/b2a97bce-a5e3-445a-a21b-f4b0051b0928)
 ![image](https://github.com/user-attachments/assets/3cfb3e84-074d-420b-be93-03212fd7571b)
 
