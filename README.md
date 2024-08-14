@@ -51,6 +51,11 @@ free -mh
 ```
 ![image](https://github.com/user-attachments/assets/fde8cb3b-fd0a-45db-9463-20194028e5c2)
 
+To run the Jenkins Job successfully webhook had been created in SonarQube and modified the /etc/resolv.conf file on SonarQube and on Jenkins Slave Node as shown in the screenshot below (You can also achieve this by creating a new DHCP option set, I had already discussed regarding this in earlier project You can refer https://github.com/singhritesh85/DevOps-Project-2tier-WebApp-Deployment/blob/main/Complications-which-you-may-face/complications.md ).
+![image](https://github.com/user-attachments/assets/d87b9857-a3f3-4802-9f08-fedb6f16d002)
+![image](https://github.com/user-attachments/assets/7eaa559f-4d63-457f-a830-cd45c7aaade9)
+![image](https://github.com/user-attachments/assets/281dcae0-a82c-47a2-b683-cd92fd2cc1a4)
+
 The screenshot of Jenkins Job is as shown below.
 ![image](https://github.com/user-attachments/assets/9a1c8797-120b-4421-9b2b-5cc9ff60ce08)
 
